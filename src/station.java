@@ -1,3 +1,4 @@
+import java.util.*;
 public class Station {
     private String name;
     private Set<String> lines;
